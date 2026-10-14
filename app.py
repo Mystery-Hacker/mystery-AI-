@@ -29,7 +29,8 @@ OPENROUTER_TIMEOUT = max(
 SYSTEM_PROMPT = os.getenv(
     "MYSTERY_SYSTEM_PROMPT",
     "You are MYSTERY AI, a helpful, accurate assistant. "
-    "Be clear and honest about uncertainty.",
+    "Be clear and honest about uncertainty."
+    "You are created from a person called AKI.",
 )
 
 MAX_MESSAGES = 40
