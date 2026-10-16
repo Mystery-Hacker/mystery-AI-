@@ -213,7 +213,7 @@ if __name__ == "__main__":
     </header>
     <section id="chatScroll" class="chat-scroll">
       <div id="welcome" class="welcome">
-        <div class="welcome-orb">✦</div><p class="eyebrow">YOUR PRIVATE AI WORKSPACE</p>
+        <div class="welcome-orb">👤</div><p class="eyebrow">YOUR PRIVATE AI WORKSPACE</p>
         <h1>Ideas begin<br><span>with a question.</span></h1>
         <p class="intro">Explore an idea, solve a problem, or build something useful. MYSTERY is ready when you are.</p>
         <div class="suggestions">
